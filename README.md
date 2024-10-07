@@ -70,6 +70,8 @@ The OCR Text Server is a web application that utilizes Optical Character Recogni
 3. Click the "Extract Data" button to retrieve the text.
 4. You can copy the extracted text to your clipboard.
 
+![image](https://api.images.jmmentertainment.com/storage/1728338787690-249961997.png)
+
 ## Contact
 
 For support or inquiries, please contact us at:  
