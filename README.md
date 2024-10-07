@@ -4,6 +4,8 @@
 
 The OCR Text Server is a web application that utilizes Optical Character Recognition (OCR) technology to extract text from images. Users can upload images, and the server processes them to retrieve any text present. This project is built using **Node.js** for the backend and **React** for the frontend.
 
+**Note:** This software is intended for use within **JMM Entertainment** only. It is a proprietary tool reserved for company use.
+
 ## Features
 
 - Upload images to extract text.
